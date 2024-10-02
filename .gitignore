@@ -1,0 +1,6 @@
+.history
+venv/*
+output/*
+combine.json
+combined.md
+**/__pycache__
