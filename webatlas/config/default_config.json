@@ -1,0 +1,9 @@
+{
+    "start_url": "",
+    "max_depth": 3,
+    "delay": 1,
+    "user_agent": "WebAtlas/1.0",
+    "request_timeout": 30,
+    "max_retries": 3,
+    "output_dir": "./output"
+  }
